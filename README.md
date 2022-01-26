@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/RoniSwagger">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roniswagger&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roniswagger&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <h1> About Me </h1>
