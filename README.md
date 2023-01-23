@@ -8,7 +8,7 @@
 <h1> About Me </h1>
 <br>
 <ul>
-  <li>🙋‍♂️ Hi there my name is Roni and have 16 years.</li>
+  <li>🙋‍♂️ Hi there my name is Roni and have 17 years.</li>
   <li>🎧 I like listening Rock.</li>
   <li>📚 I'm currently learning these languages:</li>
   <li><img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white></li>
